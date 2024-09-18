@@ -1,6 +1,7 @@
 # 🌩️ Arman Lamba - Cloud Adventurer☁️
 
-Hey there! I’m Arman, a cloud architect and tech enthusiast based in Toronto, ON. I’m always up for deploying some cool infrastructure, automating everything, and making the cloud dance to my tune. 🚀
+Hey there! I’m Arman, a cloud architect and tech enthusiast based in Toronto, ON.<br/>
+I’m always up for deploying some cool infrastructure, automating everything, and making the cloud dance to my tune. 🚀
 
 ## 🔧 Tech Stack of Wonders
 
@@ -8,6 +9,7 @@ I work with a ton of cool tools and platforms, here’s a sneak peek:
 
   ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)&nbsp;
   ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=lightblue)&nbsp;
+  ![GCP](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=GoogleCloud)&nbsp;
   
   ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=5f43e9)&nbsp;
   ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
@@ -15,7 +17,7 @@ I work with a ton of cool tools and platforms, here’s a sneak peek:
   ![k8s](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
   
   ![Python](https://img.shields.io/badge/-Python%20%EF%B8%8F-05122A?style=flat&logo=Python&logoColor=yellow)&nbsp;
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell)&nbsp;
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)&nbsp;
   ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=lightgreen)&nbsp;
   ![Bash](https://img.shields.io/badge/-Bash%20%EF%B8%8F-05122A?style=flat&logo=Linux&logoColor=white)&nbsp;
 
