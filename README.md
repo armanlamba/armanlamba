@@ -57,11 +57,11 @@ I work with a ton of cool tools and platforms, here’s a sneak peek:
 ---
 ### ⚙️ Analytics
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanlamba&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanlamba&layout=compact&count_private=true&theme=tokyonight)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=armanlamba&count_private=true&show_icons=true&theme=tokyonight)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=armanlamba&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=armanlamba&hide_border=true&theme=tokyonight)
 
 ![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=armanlamba&repo=armanlamba&countColorcountColor)
 
